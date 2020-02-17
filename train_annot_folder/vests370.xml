@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Exact</folder>
+	<filename>vests370.jpg</filename>
+	<path>C:\Users\nidhi.singh\PPE\Exact\vests370.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>57</ymin>
+			<xmax>123</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>
